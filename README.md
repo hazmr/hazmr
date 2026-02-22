@@ -9,5 +9,3 @@ Check out my [**portfolio**](https://hazemhelal.dev)
   <img src="https://raw.githubusercontent.com/vladiantio/skill-icons/MSSQL/icons/MSSQL-Dark.svg" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=mysql,linux,git,docker,rider,idea,neovim,postman" />
 </p>
-
-**Military Status:** Exempted
