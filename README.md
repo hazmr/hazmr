@@ -5,7 +5,5 @@ Experienced with **.NET Core/C#**, currently exploring **Spring Boot**.
 Check out my [**portfolio**](https://hazemhelal.dev)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring" />
-  <img src="https://raw.githubusercontent.com/vladiantio/skill-icons/MSSQL/icons/MSSQL-Dark.svg" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=mysql,linux,git,docker,rider,idea,neovim,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,mysql,linux,git,docker,idea,neovim" />
 </p>
